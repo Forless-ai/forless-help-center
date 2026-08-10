@@ -69,8 +69,7 @@ Start here.
 - Google indexing
 - Meta titles
 - Meta descriptions
-- Sitemap
-- Robots.txt
+
 
 ---
 
