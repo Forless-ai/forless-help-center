@@ -32,7 +32,6 @@ We'll use **Namecheap** in this guide, but the same steps apply to most domain p
 - GoDaddy
 - Cloudflare
 - Hostinger
-- Porkbun
 - Squarespace Domains
 - And many others
 
